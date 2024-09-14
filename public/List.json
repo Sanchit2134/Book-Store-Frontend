@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Music Book",
+        "title": "Lorem",
+        "price": 10,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Recipe Book",
+        "title": "Lorem",
+        "price": 20,
+        "category": "Paid",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    },
+    {
+        "id": 4,
+        "name": "GYM Book",
+        "title": "Lorem",
+        "price": 0,
+        "category": "Free",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Clothes Book",
+        "title": "Lorem",
+        "price": 0,
+        "category": "Free",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Magzine Book",
+        "title": "Lorem",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Colour Book",
+        "title": "Lorem",
+        "price": 110,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Car Book",
+        "title": "Lorem",
+        "price": 210,
+        "category": "Paid",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    },
+    {
+        "id": 9,
+        "name": " Book",
+        "title": "Lorem",
+        "price": 200,
+        "category": "Free",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Clothes Book",
+        "title": "Lorem",
+        "price": 100,
+        "category": "Free",
+         "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1723961316~exp=1723964916~hmac=b9700803bdb1b2eba55954cc589bb355107386c026761d9ee290bbc1a132a891&w=740"
+    }
+]
