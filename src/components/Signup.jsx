@@ -23,7 +23,7 @@ const Signup = () => {
       password: data.password,
     };
     await axios
-      .post("http://localhost:4001/user/signup", userinfo)
+      .post("https://book-store-backend-tau-one.vercel.app//user/signup", userinfo)
       .then((res) => {
         if (res.data) {
           toast.success("Signup Successful");

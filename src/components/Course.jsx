@@ -8,7 +8,7 @@ const Course = () => {
 
     const getbook = async()=>{
       try{
-        const res = await axios.get('http://localhost:4001/book');
+        const res = await axios.get('https://book-store-backend-tau-one.vercel.app//book');
         console.log(res.data);
         setBook(res.data);
       }
