@@ -4,7 +4,7 @@ module.exports = {
     './src/**/*.{js,ts,jsx,tsx}', // Adjust paths according to your project structure
   ],
   // darker: "class",
-  darkMode: 'media',
+  darkMode: 'selector',
 
   // theme: {
   //   extend: {},
